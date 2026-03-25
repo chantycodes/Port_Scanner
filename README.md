@@ -32,7 +32,7 @@ No extra installs needed — Tkinter and sockets come with Python.
 
 # GUI PREVIEW
 Below is a screenshot showing a simple GUI made with Python Tkinter
-![App Screenshot](assets/GUIScreenshot.png)
+![App Screenshot](assets/Screenshot.png)
 
 # PROJECT STRUCTURE
 scanner.py - Main GUI + multithreaded port scanner
